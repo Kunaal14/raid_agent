@@ -1,0 +1,9 @@
+{
+    "buildCommand": "npm install",
+    "functions": {
+        "api/raid.ts": {
+            "memory": 1024,
+            "maxDuration": 10
+        }
+    }
+}
